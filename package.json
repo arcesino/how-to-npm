@@ -1,0 +1,29 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "How to npm workshop from NodeSchool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "npm",
+    "workshop",
+    "node",
+    "school"
+  ],
+  "author": "Ignacio Arces",
+  "license": "ISC",
+  "dependencies": {
+    "once": "^1.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcesino/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arcesino/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/arcesino/how-to-npm#readme"
+}
